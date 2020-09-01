@@ -1,0 +1,265 @@
+# depslib dependency file v1.0
+1564443543 source:c:\users\aluno\desktop\projeto game of thrones\animacao.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+
+1564443720 source:c:\users\aluno\desktop\projeto game of thrones\doacoes.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<conio.h>
+	<string.h>
+	"Livros.h"
+	"Pessoas.h"
+	"Doacoes.h"
+	"Animacao.h"
+
+1564444397 c:\users\aluno\desktop\projeto game of thrones\livros.h
+
+1564443695 c:\users\aluno\desktop\projeto game of thrones\pessoas.h
+
+1564443829 c:\users\aluno\desktop\projeto game of thrones\doacoes.h
+	"Livros.h"
+	"Pessoas.h"
+
+1564443643 c:\users\aluno\desktop\projeto game of thrones\animacao.h
+
+1564443829 source:c:\users\aluno\desktop\projeto game of thrones\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"Doacoes.h"
+	"Pessoas.h"
+	"Livros.h"
+	"Animacao.h"
+
+1564444372 source:c:\users\aluno\desktop\projeto game of thrones\livros.c
+	<stdio.h>
+	<stdlib.h>
+	"Livros.h"
+	<locale.h>
+	<string.h>
+	<conio.h>
+
+1564444377 source:c:\users\aluno\desktop\projeto game of thrones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Doacoes.h"
+	"Livros.h"
+	"Pessoas.h"
+	<locale.h>
+	<windows.h>
+	<conio.h>
+	"Animacao.h"
+
+1564443625 source:c:\users\aluno\desktop\projeto game of thrones\pessoas.c
+	<stdio.h>
+	<stdlib.h>
+	"Pessoas.h"
+	<locale.h>
+	<string.h>
+	<conio.h>
+
+1564483014 source:c:\users\alvaro\desktop\projeto estrutura\projeto game of thrones\animacao.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+
+1564443720 source:c:\users\alvaro\desktop\projeto estrutura\projeto game of thrones\doacoes.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<conio.h>
+	<string.h>
+	"Livros.h"
+	"Pessoas.h"
+	"Doacoes.h"
+	"Animacao.h"
+
+1564444397 c:\users\alvaro\desktop\projeto estrutura\projeto game of thrones\livros.h
+
+1564443695 c:\users\alvaro\desktop\projeto estrutura\projeto game of thrones\pessoas.h
+
+1564443829 c:\users\alvaro\desktop\projeto estrutura\projeto game of thrones\doacoes.h
+	"Livros.h"
+	"Pessoas.h"
+
+1564443643 c:\users\alvaro\desktop\projeto estrutura\projeto game of thrones\animacao.h
+
+1564444372 source:c:\users\alvaro\desktop\projeto estrutura\projeto game of thrones\livros.c
+	<stdio.h>
+	<stdlib.h>
+	"Livros.h"
+	<locale.h>
+	<string.h>
+	<conio.h>
+
+1564483414 source:c:\users\alvaro\desktop\projeto estrutura\projeto game of thrones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Doacoes.h"
+	"Livros.h"
+	"Pessoas.h"
+	<locale.h>
+	<windows.h>
+	<conio.h>
+	"Animacao.h"
+
+1564443625 source:c:\users\alvaro\desktop\projeto estrutura\projeto game of thrones\pessoas.c
+	<stdio.h>
+	<stdlib.h>
+	"Pessoas.h"
+	<locale.h>
+	<string.h>
+	<conio.h>
+
+1564444907 source:c:\users\alvaro\desktop\projeto estrutura\projeto game of thrones\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"Doacoes.h"
+	"Pessoas.h"
+	"Livros.h"
+	"Animacao.h"
+
+1564483014 source:c:\users\alvaro\desktop\projeto game of thrones\animacao.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+
+1564443720 source:c:\users\alvaro\desktop\projeto game of thrones\doacoes.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<conio.h>
+	<string.h>
+	"Livros.h"
+	"Pessoas.h"
+	"Doacoes.h"
+	"Animacao.h"
+
+1564444397 c:\users\alvaro\desktop\projeto game of thrones\livros.h
+
+1564443695 c:\users\alvaro\desktop\projeto game of thrones\pessoas.h
+
+1564443829 c:\users\alvaro\desktop\projeto game of thrones\doacoes.h
+	"Livros.h"
+	"Pessoas.h"
+
+1564443643 c:\users\alvaro\desktop\projeto game of thrones\animacao.h
+
+1564444907 source:c:\users\alvaro\desktop\projeto game of thrones\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"Doacoes.h"
+	"Pessoas.h"
+	"Livros.h"
+	"Animacao.h"
+
+1564444372 source:c:\users\alvaro\desktop\projeto game of thrones\livros.c
+	<stdio.h>
+	<stdlib.h>
+	"Livros.h"
+	<locale.h>
+	<string.h>
+	<conio.h>
+
+1564483414 source:c:\users\alvaro\desktop\projeto game of thrones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Doacoes.h"
+	"Livros.h"
+	"Pessoas.h"
+	<locale.h>
+	<windows.h>
+	<conio.h>
+	"Animacao.h"
+
+1564443625 source:c:\users\alvaro\desktop\projeto game of thrones\pessoas.c
+	<stdio.h>
+	<stdlib.h>
+	"Pessoas.h"
+	<locale.h>
+	<string.h>
+	<conio.h>
+
+1577757267 source:c:\users\alvaro\desktop\carol\projeto\projeto game of thrones\animacao.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+
+1564443720 source:c:\users\alvaro\desktop\carol\projeto\projeto game of thrones\doacoes.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<conio.h>
+	<string.h>
+	"Livros.h"
+	"Pessoas.h"
+	"Doacoes.h"
+	"Animacao.h"
+
+1564444397 c:\users\alvaro\desktop\carol\projeto\projeto game of thrones\livros.h
+
+1564443695 c:\users\alvaro\desktop\carol\projeto\projeto game of thrones\pessoas.h
+
+1564443829 c:\users\alvaro\desktop\carol\projeto\projeto game of thrones\doacoes.h
+	"Livros.h"
+	"Pessoas.h"
+
+1564443643 c:\users\alvaro\desktop\carol\projeto\projeto game of thrones\animacao.h
+
+1564444907 source:c:\users\alvaro\desktop\carol\projeto\projeto game of thrones\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"Doacoes.h"
+	"Pessoas.h"
+	"Livros.h"
+	"Animacao.h"
+
+1564444372 source:c:\users\alvaro\desktop\carol\projeto\projeto game of thrones\livros.c
+	<stdio.h>
+	<stdlib.h>
+	"Livros.h"
+	<locale.h>
+	<string.h>
+	<conio.h>
+
+1564483414 source:c:\users\alvaro\desktop\carol\projeto\projeto game of thrones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Doacoes.h"
+	"Livros.h"
+	"Pessoas.h"
+	<locale.h>
+	<windows.h>
+	<conio.h>
+	"Animacao.h"
+
+1564443625 source:c:\users\alvaro\desktop\carol\projeto\projeto game of thrones\pessoas.c
+	<stdio.h>
+	<stdlib.h>
+	"Pessoas.h"
+	<locale.h>
+	<string.h>
+	<conio.h>
+
